@@ -1,2 +1,0 @@
-# oryornoi-sby
-Oryor
